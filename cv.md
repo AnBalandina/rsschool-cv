@@ -4,9 +4,9 @@
 
 
 ### **Contact information:**
-**Phone:** +7 9017167151
+**Phone:** +7 9017167151  
 **Email:** a.v.balandina@yandex.ru  
-**Discord:** AnBalandina#1455
+**Discord:** AnBalandina#1455  
 
 -----------------------------
 
