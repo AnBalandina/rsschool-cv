@@ -2,7 +2,6 @@
 
 ********************
 
-![photo](/photo.jpg "Photo for CV")
 
 ### **Contact information:**
 **Phone:** +7 9017167151
@@ -51,4 +50,4 @@ I started my professional path working in a local museum as project manager. My 
 ### **Languages:**
 * Russian - Native
 * English - Advanced 
-![photo](/engtest.png "English level")
+
