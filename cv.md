@@ -11,7 +11,7 @@
 -----------------------------
 
 ### **Briefly About Myself:**
-I started my professional path working in a local museum as project manager. My duty was searching information about grants, create projects for them, collect necessary documentation. After two years, I decided to change work and become a flight attendant. This year I have a willing to try new profession. Unfortunately, I don't have technical education, but I do have passion for development. My strengths are teamwork, time management and learnability.
+I started my professional path working in a local museum as project manager. My duty was searching information about grants, create projects for them, collect necessary documentation. After two years, I decided to change work and become a flight attendant. This year I have a willing to start a new profession. Unfortunately, I don't have technical education, but I do have passion for development. My strengths are teamwork, time management and learnability.
 
 -----------------------------
 
