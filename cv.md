@@ -24,14 +24,25 @@ I started my professional path working in a local museum as project manager. My 
 -----------------------------
 
 ### **Code example:**
-*Convert a string to an array from CODEWARS:* Write a function to split a string and convert it into an array of words.
+*String repeat from CODEWARS:* Write a function that accepts an integer n and a string s as parameters, and returns a string of s repeated exactly n times.
 ```
-  function stringToArray(string){  
-      let arr = string.split(' ');  
-      return arr;  
+  function repeatStr (n, s) {
+    let str = '';
+    for(i = 1; i <= n; i++){
+    str += s;
+    }
+  return str;
   }
 ```
 
+*N-th Fibonacci from CODEWARS:* I would like for you to write me a function that, when given a number n (n >= 1 ), returns the nth number in the Fibonacci Sequence.
+```
+  function nthFibo(n) {
+    if (n<=1) return 0;
+    else if (n==2) return 1;
+    else return nthFibo(n-1) + nthFibo(n-2);
+  }
+```
 -----------------------------
 
 ### **Projects**
@@ -50,4 +61,3 @@ I started my professional path working in a local museum as project manager. My 
 ### **Languages:**
 * Russian - Native
 * English - Advanced 
-
