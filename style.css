@@ -1,12 +1,12 @@
 @font-face {
     font-family: Oswald;
-     src: url("assets/fonts/Oswald-Regular.ttf");
+     src: url("Assets/fonts/Oswald-Regular.ttf");
      font-weight: 400;
 }
 
 @font-face {
     font-family: Kanit;
-     src: url("assets/fonts/Kanit-Thin.ttf");
+     src: url("Assets/fonts/Kanit-Thin.ttf");
      font-weight: 100;
 }
 
